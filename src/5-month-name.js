@@ -3,7 +3,6 @@ const months = [
   'July', 'August', 'September', 'October', 'November', 'December'
 ]
 
-
 export const monthName = (monthNumber) => {
   if (monthNumber <= 0) {
     return null
